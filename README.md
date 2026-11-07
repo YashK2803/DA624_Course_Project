@@ -20,4 +20,4 @@ In this project we test how the way a model joins image and text (called **fusio
 |---|---|---|
 | Yash Kharangate | 230150032 | Early fusion (ViLT) |
 | Billa Cherish | 230150007 | Mid Fusion (BLIP-2) |
-| Vaishnavi Agarwal | 230150028 | Token Level Fusion (LLaVa)* |
+| Vaishnavi Agarwal | 230150028 | Token Level Fusion (LLaVa) |
