@@ -21,3 +21,25 @@ In this project we test how the way a model joins image and text (called **fusio
 | Yash Kharangate | 230150032 | Early fusion (ViLT) |
 | Billa Cherish | 230150007 | Mid Fusion (BLIP-2) |
 | Vaishnavi Agarwal | 230150028 | Token Level Fusion (LLaVa) |
+
+## Repository Structure
+
+```
+.
+├── early-fusion/
+│   ├── early-fusion-vilt.ipynb    
+│   └── training_logs.log          
+├── mid-fusion/
+│   └── Mid_Fusion_BLIP2.ipynb
+├── token-level fusion/
+│   ├── download_and_prep_data.py 
+│   ├── train_llava_qinstruct.py   
+│   ├── evaluate_qbench.py      
+│   ├── generate_diagrams.py       
+│   └── generate_training_logs.py  
+├── report/
+│   └── DA624_Final_Report.pdf 
+├── slides/
+│   └── NLP_Course_Project_Final.pdf 
+└── README.md
+```
